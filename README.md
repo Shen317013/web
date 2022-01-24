@@ -1,4 +1,6 @@
 # web
+Demo-link : https://limitless-bastion-62806.herokuapp.com/home
+
 專案目的 :　學習Vue開發網頁、嘗試使用element ui套件輔助開發、認識Vuex與學習建立後端進行前後端串接。
 
 使用工具 :　Vue.js、Vue-Cli、Vue-Router、Vuex、Node.js、mongoDB(mongoose)、Express、axios、element-ui、nodemon、concurrently、passport-jwt。
