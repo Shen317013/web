@@ -30,6 +30,3 @@ Demo-link : https://web-design0124.herokuapp.com/home
 11.以element-ui為輔助開發網頁。
 
 
-心得 : 這是使用Vue為框架寫網頁，然而Framework跟以往寫html有很大的不同，從MVC轉化成MVVM，雖然一開始不太習慣，不過在開發的過程中有覺得程式碼相較於之前有比較好維護，
-EX:可以把重複性高的Navbar和Footer單獨拆成元件套入，開發的過程省時且好維護，原本要撰寫的程式碼可以使用v-簡化。再來是可以使用Router進行頁面的切換管理，資料雙向綁定，
-目前認為自己對於Vuex的使用還是有些不熟悉，往後會繼續專研Vuex，希望有朝一日能把Vue用的行雲流水。
