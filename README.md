@@ -7,7 +7,7 @@ Demo-link : https://web-design0124.herokuapp.com/home
 
 工具說明 : 
 
-1.使用Builder X 以Vue.js框架進行網頁開發。
+1.使用HBuilder X 以Vue.js框架進行網頁開發。
 
 2.使用Vue-Cli進行前端構建。
 
